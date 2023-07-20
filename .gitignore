@@ -1,0 +1,5 @@
+.venv
+mnist_test.csv
+mnist_train.csv
+train_parent/
+test_parent/
